@@ -38,7 +38,7 @@ pip install -r src/requirements.txt
 <br>
 
 ## 2. Processing
-### 2. 1 Partner's Data 
+### 2.1 Partner's Data 
 #### 2.1.1 Merge Data 
 #### 2.1.2 Clean Data 
 
@@ -68,13 +68,13 @@ pip install -r src/requirements.txt
    * Summarize the number of Partner's countries 
    * Summarize the number of Time Dimensions (Year)
 
-#### 2.2.5 2nd Filter of Indicator Data 
+#### 2.2.7 2nd Filter of Indicator Data 
  * Input: 2.2.5 
  * Condition: 2.2.6 
 
-#### 2.2.6 Merge all Indicator Data  
+#### 2.2.8 Merge all Indicator Data  
 
-#### 2.2.7 Classification of Indicators
+#### 2.2.9 Classification of Indicators
  * Positive
  * Negative 
 
@@ -92,7 +92,6 @@ pip install -r src/requirements.txt
 
 ### 3.2 Ranking 
  
-
 
 
 
