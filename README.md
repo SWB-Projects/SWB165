@@ -6,6 +6,7 @@
 - [Results](#results)
 - [License](#license)
 
+<br>
 
 ## Goal
  * Prioritization of partner's countries based on health-related indicators
